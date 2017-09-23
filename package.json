@@ -1,0 +1,22 @@
+{
+  "name": "laboratory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjn2/laboratory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjn2/laboratory/issues"
+  },
+  "homepage": "https://github.com/fjn2/laboratory#readme",
+  "dependencies": {
+    "udp-node": "^2.1.0"
+  }
+}
