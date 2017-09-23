@@ -2,10 +2,9 @@ const UdpNode = require('udp-node')
 const six = new UdpNode()
 six
   .set({
-    name: 'Six',
+    name: 'reciber',
     type: 'machine'
   })
-  .broadcast()
   .onNode((message, rinfo) => {
     // FOUND NODE
     // message: contains node's name, type and other details set when node was initialized using set()
