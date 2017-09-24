@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/fjn2/laboratory#readme",
   "dependencies": {
+    "express": "^4.15.4",
+    "rpi-gpio": "^0.8.1",
     "udp-node": "^2.1.0"
   }
 }
